@@ -75,13 +75,4 @@ Open `Comp Behaviour.ipynb` and run the cells sequentially.
 - Model explainability (SHAP/LIME)
 - Interactive dashboard for predictions
 
-## 👤 Author
-
-**Hinthu Ganasan**
-
-Bachelor of Artificial Intelligence  
-Multimedia University (MMU)
-
----
-
 *This repository is created for learning, experimentation, and portfolio purposes.*
